@@ -11,7 +11,7 @@ gost - GO Simple Tunnel
 [![Snap Status](https://build.snapcraft.io/badge/ginuerzh/gost.svg)](https://build.snapcraft.io/user/ginuerzh/gost)
 [![Docker Build Status](https://img.shields.io/docker/build/ginuerzh/gost.svg)](https://hub.docker.com/r/ginuerzh/gost/)
  
-[English README](README_en.md)
+[English README](README_en.md).
 
 特性
 ------
